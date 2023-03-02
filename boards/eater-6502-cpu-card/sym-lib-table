@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Eater6502_Bus")(type "KiCad")(uri "C:/Users/Greg/dev/Eater6502/boards/parts/Eater6502_Bus.kicad_sym")(options "")(descr ""))
+  (lib (name "WDC65xx")(type "KiCad")(uri "C:/Users/Greg/dev/Eater6502/boards/eater-6502-sbc/WDC65xx.kicad_sym")(options "")(descr ""))
+)

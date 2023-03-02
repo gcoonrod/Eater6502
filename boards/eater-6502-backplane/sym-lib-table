@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "87715-9100 PCIe")(type "KiCad")(uri "C:/Users/Greg/dev/Eater6502/boards/parts/LIB_87715-9100/87715-9100/KiCad/87715-9100.kicad_sym")(options "")(descr ""))
+  (lib (name "Eater6502_Bus")(type "KiCad")(uri "C:/Users/Greg/dev/Eater6502/boards/parts/Eater6502_Bus.kicad_sym")(options "")(descr ""))
+)

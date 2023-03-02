@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "6502_Library")(type "KiCad")(uri "C:/Users/Greg/dev/Eater6502/boards/parts/6502_Library.pretty")(options "")(descr ""))
+)
